@@ -16,7 +16,7 @@ const teamMembers: TeamMemberType[] = [
     name: 'Sarah Johnson',
     role: 'Technical Lead',
     image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80',
-    bio: 'Pushing the boundaries of what's possible in 3D web technologies.',
+    bio: 'Pushing the boundaries of what\'s possible in 3D web technologies.',
   },
   {
     id: 3,
