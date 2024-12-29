@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Cube, Palette, Globe, Code, Layers, Camera } from 'lucide-react';
+import { Star, Palette, Globe, Code, Layers, Camera } from 'lucide-react';
 import ServiceCard from './ServiceCard';
 
 const services = [
@@ -8,7 +8,7 @@ const services = [
     id: 1,
     title: '3D Modeling',
     description: 'Custom 3D models with attention to detail and precision',
-    icon: Cube,
+    icon: Star,
   },
   {
     id: 2,
